@@ -56,13 +56,6 @@ Before running the script, make sure you have:
    pip install -r requirements.txt
    ```
 
-## Usage
-
-Run the script to import the users from your Excel file:
-
-```bash
-python import_users.py
-```
 
 The script will automatically read the user data from your Excel file and add them to your CTFd platform.
 
@@ -79,7 +72,4 @@ The script will automatically read the user data from your Excel file and add th
 - Make sure your Excel file has the correct format (i.e., `Username` and `Email` columns).
 - If you encounter any issues, feel free to open an issue in the GitHub repo!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
