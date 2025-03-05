@@ -1,4 +1,4 @@
-```markdown
+
 # CTFd Bulk User Importer
 
 Welcome to the **CTFd Bulk User Importer**! This script allows you to bulk import players into your CTFd platform by uploading an Excel file. The file should contain the usernames and emails of all players. 
@@ -24,7 +24,7 @@ Before running the script, make sure you have:
 
    ```python
    base_url = "https://your-ctfd-domain.com"
-   ```
+
 
 2. **Set Your Admin Access Token:**
    You’ll need an access token from an admin account in your CTFd instance. Add the token to the script as follows:
